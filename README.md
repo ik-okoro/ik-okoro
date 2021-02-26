@@ -14,7 +14,7 @@ I love building predictive models that could answer business questions or help p
 
 <p align="center">
   <i>Programming gives children a taste of power.</i><br/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ik-okoro"/>
 </p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
